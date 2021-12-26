@@ -19,3 +19,8 @@ Hoe meer je in de Cloud werkt hoe belangrijker het is om veilig en in overeenste
 In de 'ouderwetse' IT werd omgevingsbeveiliging op het hoogste niveau doorgevoerd. Het was moeilijk om verschillende beveiligingsniveaus toe te passen voor verschillende oplossingen. Dit leidde tot (onnodige) hoge kosten en waarschijnlijk een verminderde functionaliteit en bruikbaarheid. Het Cloud Adoption Framework begeleidt organisaties bij het opzetten van een applicatiegerichte aanpak. Je kan nu werken met een standaard beveiligingsniveau dat voor alle applicaties geldt en vervolgens aanvullende beveiligingsmaatregelen voor specifieke componenten toevoegen. Dit wordt "layered defence" genoemd, binnen dat kader kun je teams alle vrijheid geven om hun werk te geven. 
 
 Bron: https://www.youtube.com/watch?v=3g4JYwxz-cE
+
+## Is het Microsoft Cloud Adoption Framework compleet?
+Cloudadoptie begint ruim voor de selectie van een cloudprovider. Het begint wanneer zakelijke en IT-besluitvormers begrijpen dat de cloud hen zal helpen bij het bereiken van een bepaald bedrijfstransformatiedoel. Daarom is het framework een volledig lifecycle voor cloudadoptie dat verder gaat dan technologie. Van het definiëren van een strategie en doelstellingen tot het daadwerkelijk opzetten van een cloudomgeving. Het Cloud Adoption Framework helpt organisaties bij het afstemmen van hun business, cultuur en technologische transformatie om met succes korte- en lange termijn doelstellingen te bereiken.
+![alt text](https://github.com/zmasis/Microsoft-Cloud-Adoption-Framework-/blob/main/cloudadoption.gif?raw=true)
+Bron: https://azure.microsoft.com/en-us/cloud-adoption-framework/#cloud-adoption-journey
