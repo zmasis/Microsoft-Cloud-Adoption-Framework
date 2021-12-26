@@ -7,7 +7,9 @@ In hoofdlijnen, bestaat het framework uit de volgende stappen:
 - Define your business objectives; oftewel, bepaal wat er behaald wil worden. 
 - Prepare your organization for the cloud; het proces van people, processen en technology, het bedrijf moet er klaar voor zijn om over te gaan naar de Cloud. 
 - Adopting the Cloud; over gaan naar de Cloud, migreer je je applicaties rechtstreeks naar de Cloud, of worden de applicaties opnieuw ontworpen geschikt voor de Cloud.  
-- Establish a well-managed cloud environment; Pas governance toe.  
+- Establish a well-managed cloud environment; Pas governance toe.
+
+![alt text](https://github.com/zmasis/Microsoft-Cloud-Adoption-Framework/blob/main/microsoft-cloud-adoption-framework-for-azure-social.png?raw=true)
 
 *Bron: https://azure.microsoft.com/en-us/cloud-adoption-framework/#overview*
 
