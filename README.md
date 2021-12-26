@@ -4,13 +4,10 @@ Microsoft Cloud Adoption Framework is een framework, oftewel een raamwerk dat ka
 
 In hoofdlijnen, bestaat het framework uit de volgende stappen: 
 
-Define your business objectives; oftewel, bepaal wat er behaald wil worden. 
-
-Prepare your organization for the cloud; het proces van people, processen en technology, het bedrijf moet er klaar voor zijn om over te gaan naar de Cloud. 
-
-Adopting the Cloud; over gaan naar de Cloud, migreer je je applicaties rechtstreeks naar de Cloud, of worden de applicaties opnieuw ontworpen geschikt voor de Cloud.  
-
-Establish a well-managed cloud environment; Pas governance toe.  
+- Define your business objectives; oftewel, bepaal wat er behaald wil worden. 
+- Prepare your organization for the cloud; het proces van people, processen en technology, het bedrijf moet er klaar voor zijn om over te gaan naar de Cloud. 
+- Adopting the Cloud; over gaan naar de Cloud, migreer je je applicaties rechtstreeks naar de Cloud, of worden de applicaties opnieuw ontworpen geschikt voor de Cloud.  
+- Establish a well-managed cloud environment; Pas governance toe.  
 
 ## Bijdrage aan goverance van cloud processen, componenten, services, business en people.
 Budgetbewaking en toegangscontrole zijn één van de meest kritische aspecten van elke IT-omgeving, in de Cloud is dit wellicht nog relevanter. Het Cloud Adoption Framework stelt organisaties in staat om op een gecontroleerde manier goverance op schaal toe te passen op hun cloudomgeving waardoor ze niet voor verrassingen komen te staan op hun maandoverzicht. 
