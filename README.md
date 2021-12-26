@@ -1,4 +1,4 @@
-# Microsoft-Cloud-Adoption-Framework-
+# Microsoft Cloud Adoption Framework
 ## Wat is Microsoft Cloud Adoption Framework?
 Microsoft Cloud Adoption Framework is een framework, oftewel een raamwerk dat kan helpen met het adopteren van de Cloud. Het Cloud Adoption Framework biedt begeleiding met hoe je de juiste business- en technology- strategieën kan opnemen om succesvol te zijn in de Cloud. Het Framework bestaat uit tools, documentatie en best practices. Microsoft Cloud Adoption Framework is ontworpen om het proces van het adopteren van de Cloud te versnellen.  
 
