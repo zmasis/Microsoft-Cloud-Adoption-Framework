@@ -12,3 +12,4 @@ Adopting the Cloud; over gaan naar de Cloud, migreer je je applicaties rechtstre
 
 Establish a well-managed cloud environment; Pas governance toe.  
 
+*Bron: https://azure.microsoft.com/en-us/cloud-adoption-framework/#overview*
